@@ -1,0 +1,1 @@
+{"version":3,"sources":["Click.css"],"names":[],"mappings":"AAAA,OACE,aAAc,CACd,UAAW,CACX,eAAgB,CAChB,gBACF","file":"main.e50aa3a3.chunk.css","sourcesContent":[".Click {\n  display: block;\n  width: 100%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n"]}
